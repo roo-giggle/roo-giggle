@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roopal</h1>
 <h3 align="center">Frontend developer</h3>
-
+<br>
+<p>Creative developer blending sleek UIs with powerful functionality. I bring ideas to life using React, Next.js, and blockchain, delivering dynamic, end-to-end solutions</p>
 - 🔭 I’m currently working on **NFT marketplace**
 
 - 🌱 I’m currently learning **Three js and Next js**
